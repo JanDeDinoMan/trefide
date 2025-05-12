@@ -1,7 +1,6 @@
 name: trefide_devel
 channels:
   - defaults
-  - intel
 dependencies:
   - python
   - numpy
