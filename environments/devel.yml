@@ -11,5 +11,6 @@ dependencies:
   - matplotlib
   - h5py
   - pip
+  - conda-forge::bioio-base
   - pip:
       - opencv-python
